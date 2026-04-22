@@ -4,5 +4,5 @@ go 1.21
 
 require (
 	github.com/tomleb/frameworks-automation-steve v0.8.1
-	github.com/tomleb/frameworks-automation-wrangler v0.5.4
+	github.com/tomleb/frameworks-automation-wrangler v0.5.5
 )
