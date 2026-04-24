@@ -1,8 +1,8 @@
 github.com/tomleb/frameworks-automation-norman v0.7.1 h1:C7uyjMHOWDTUlofSBS/mSapN6yN8GqENf75IHW/XnDI=
 github.com/tomleb/frameworks-automation-norman v0.7.1/go.mod h1:TYb4Dtoke3EYCc7BK9ayX6iqTZoqmLWxfzfm6iwMmG8=
-github.com/tomleb/frameworks-automation-steve v0.7.7 h1:+BPToirIK0mS+AZ+NYuzj89COrrP7dGSavx9OV9BOgE=
-github.com/tomleb/frameworks-automation-steve v0.7.7/go.mod h1:wHo4kOTaWZKmc1CcUNvXV09vCWk/GAnIzD7mgiEAZY4=
+github.com/tomleb/frameworks-automation-steve v0.7.9 h1:26n2VmIno1Sbyq7XTm1df6oEoBTPYaeztiAQ7998VfY=
+github.com/tomleb/frameworks-automation-steve v0.7.9/go.mod h1:Ka2k1+OpzJ/kX5ZTfMditdHtT4Xk9h6tT8tbTdHiUtg=
 github.com/tomleb/frameworks-automation-webhook v0.7.1 h1:fNLE552OMbssRV0skhAfWPd1P6j3TfjETjm88nibQw0=
 github.com/tomleb/frameworks-automation-webhook v0.7.1/go.mod h1:ykPM1Bh7Li85sBDHjHBuQsO8qfTl9a6UQ3/27j0VXIA=
-github.com/tomleb/frameworks-automation-wrangler v0.5.9 h1:V3QuWzF5X1kGKndLNh2KMq46Q7dFB5gLv+tfgAIJ5ss=
-github.com/tomleb/frameworks-automation-wrangler v0.5.9/go.mod h1:8mMgUgV9vfb1nkSN7LC9Y1V7azkyLYvH46eSSdK3LaU=
+github.com/tomleb/frameworks-automation-wrangler v0.5.11 h1:+ObljrKd3prE3twAU4zENwf41EZsqBeMsUzveRK6rqk=
+github.com/tomleb/frameworks-automation-wrangler v0.5.11/go.mod h1:8mMgUgV9vfb1nkSN7LC9Y1V7azkyLYvH46eSSdK3LaU=
